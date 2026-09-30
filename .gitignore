@@ -1,0 +1,13 @@
+*.jks
+*.keystore
+app/guddiz-release.jks
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+*.apk
+*.aab
+*.log
+.DS_Store
